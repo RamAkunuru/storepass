@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/register": "pages/api/register.js",
+  "/api/save-password": "pages/api/save-password.js",
+  "/api/signin": "pages/api/signin.js",
+  "/forgot-password": "pages/forgot-password.html",
+  "/register": "pages/register.html",
+  "/dashboard": "pages/dashboard.html",
+  "/signin": "pages/signin.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
