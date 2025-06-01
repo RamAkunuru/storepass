@@ -2,7 +2,7 @@ import styled from '@n3e/styled';
 
 export const Container = styled.div({
   minHeight: '100vh',
-  backgroundColor: '#E0F4F6',
+  backgroundColor: '#CCE6FF',
   display: 'flex',
   justifyContent: 'center',
   alignItems: 'center',
